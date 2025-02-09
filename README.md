@@ -9,7 +9,7 @@ GENIA: http://www.geniaproject.org/genia-corpus
 
 Chilean Waiting List: https://zenodo.org/records/5591011
 
-JNLPBA: http://www.geniaproject.org/shared-tasks/bionlp-jnlpba-shared-task-2004
+JNLPBA: https://huggingface.co/datasets/jnlpba/jnlpba
 
 NCBI Disease: https://www.ncbi.nlm.nih.gov/research/bionlp/Data/disease/
 
